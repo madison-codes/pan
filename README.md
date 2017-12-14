@@ -57,7 +57,10 @@ Load your parent app up an running. The parent app used for this experiment in I
     c. Click on `Load unpacked extension`
     d. Select the `build` folder.
     e. Find id listed on extension page
-    ![group](https://user-images.githubusercontent.com/19200284/34009861-c0751974-e0c7-11e7-8884-0926c67c8442.jpg)
+    
+ ![group](https://user-images.githubusercontent.com/19200284/34009861-c0751974-e0c7-11e7-8884-0926c67c8442.jpg)
+ 
+ 
 4. The `runtime.connect` call will return a Port that allows you send and receive messages.
 
 #### Reveive Messages
