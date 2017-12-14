@@ -1,5 +1,5 @@
 # 🍳  [Pan](https://en.wikipedia.org/wiki/Pan_(moon))  🌙
-## Chrome Extension/ Iframe experiment
+## Chrome Extension/ Iframe Experiment
 
 This project is a proof of concept showing an open communication channel between an extension and an iframe. The application takes advantage of [message passing](https://developer.chrome.com/extensions/messaging), using the [`runtime.connect` API](https://developer.chrome.com/extensions/runtime#method-connect) to open up a port between the extension and the iframe.Once the port is open, messages can be passed from either side. 
 
